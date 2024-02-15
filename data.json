@@ -1,20 +1,26 @@
 [
-    {
-      "name": "DISHWASHING LIQUID",
-      "description": "ANTIBACTERIAL",
-      "price": 70,
-      "date added": "02-12-2024"
-    },
-    {
-      "name": "DISHWASHING LIQUID",
-      "description": "LEMON",
-      "price": 70,
-      "date added": "02-12-2024"
-    },
-    {
-      "name": "DISHWASHING LIQUID",
-      "description": "KALAMANSI",
-      "price": 70,
-      "date added": "02-12-2024"
-    }
+  {
+    "id": 1,
+    "Product Name": "DISHWASHING LIQUID",
+    "price": 55,
+    "description": "ANTIBACTERIAL",
+    "date added": "02-12-2024",
+    "imageURL": "https://img.lazcdn.com/g/p/539b8baf1a38dc31912a99f6e7af73e9.jpg_720x720q80.jpg"
+  },
+  {
+    "id": 2,
+    "Product Name": "DISHWASHING LIQUID",
+    "price": 55,
+    "description": "LEMON",
+    "date added": "02-12-2024",
+    "imageURL": "https://img.ws.mms.shopee.ph/5abe7ead63d3154c723aea483e894b58"
+  },
+  {
+    "id": 3,
+    "Product Name": "DISHWASHING LIQUID",
+    "price": 55,
+    "description": "KALAMANSI",
+    "date added": "02-12-2024",
+    "imageURL": "https://down-ph.img.susercontent.com/file/df38c1cf491b9b4081946e9e3e5aeb0c"
+  }
 ]
